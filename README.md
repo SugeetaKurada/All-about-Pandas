@@ -87,4 +87,4 @@ Getting data in/out
 CSV / HDFS / EXCEL
 The stack() method “compresses” a level in the DataFrame’s columns.
 **Gotchas**
-![image](https://user-images.githubusercontent.com/80926748/123571674-59653700-d790-11eb-9404-36b37a9a62c2.png)
+
